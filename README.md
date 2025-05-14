@@ -2,12 +2,11 @@
   <img src="https://i.imgur.com/7pD0BY5.png" alt="Banner Kalleby Evangelho" width="100%">
 </p>
 
-<h1 align="center">✨ Kalleby Evangelho ✨</h1>
-
-<p align="center">
-  <b>Biomedical Innovator | Fullstack Developer | Founder @Biomove</b> <br>
-  Criando tecnologias que conectam inovação, acessibilidade e impacto social.
-</p>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=✨+Kalleby+Evangelho+✨;Biomedical+Innovator+%7C+Fullstack+Developer+%7C+Founder+%40Biomove" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <i>🌟 Tecnologia com Propósito. Inovação com Empatia. 🌟</i>
@@ -26,6 +25,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=header"/>
+</p>
+
+---
+
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de Engenharia Biomédica na UFN.
@@ -33,6 +38,12 @@
 - 💻 Desenvolvedor Fullstack e Maker de Hardware.
 - 🤖 Entusiasta de IA aplicada à saúde, educação e acessibilidade.
 - 🌍 Defensor da educação como motor de transformação social.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+</p>
 
 ---
 
@@ -49,6 +60,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+</p>
 
 ---
 
@@ -71,6 +88,12 @@ Sistema baseado em Inteligência Artificial para interpretação rápida e acess
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+</p>
+
+---
+
 ## 📝 Publicações e Artigos
 
 - 📄 **Inteligência Artificial na Saúde: Avanços, Desafios e Aplicações Futuras (2025)**  
@@ -80,14 +103,28 @@ _(Mais publicações em desenvolvimento.)_
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+</p>
+
+---
+
 ## 🕰️ Linha do Tempo da Jornada
 
 | Ano | Conquista |
 |:----|:----------|
-| **2022** | Início no desenvolvimento de tecnologias assistivas com Arduino e impressão 3D. |
-| **2023** | Ingresso no curso de Engenharia Biomédica (UFN) e fundação da Biomove. |
-| **2024** | Desenvolvimento da ToolNurse e da Ludoway; apresentações científicas em eventos. |
-| **2025** | Lançamento do BioECG e do Projeto VitaPel; publicação de artigos científicos. |
+| **2022** | Curso Fullstack na Kenzie Academy (HTML5, CSS3, JS, React, Python, SQL e liderança técnica). |
+| **Julho de 2023** | Ingresso no curso de Ciência da Computação na UFN, aprofundando IA e segurança da informação. |
+| **Agosto de 2023** | Bolsa de Iniciação Tecnológica em projetos de saúde materno-infantil. |
+| **Maio de 2024** | Fundação da startup Biomove, tecnologias assistivas e próteses mioelétricas. |
+| **Julho de 2024** | Ingresso no curso de Engenharia Biomédica na UFN. |
+| **Abril de 2025** | Incubação no Hub Clareira (programa Decola.cp), impulsionando a Biomove. |
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+</p>
 
 ---
 
@@ -99,6 +136,12 @@ _(Mais publicações em desenvolvimento.)_
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+</p>
+
+---
+
 <div align="center">
 
 ### 📊 Estatísticas GitHub
@@ -106,6 +149,12 @@ _(Mais publicações em desenvolvimento.)_
 ![Kalleby Evangelho GitHub Stats](https://github-readme-stats.vercel.app/api?username=KallebyX&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KallebyX&layout=compact&theme=tokyonight)
+
+---
+
+### 👁️‍🗨️ Visualizações de Perfil
+
+<img src="https://komarev.com/ghpvc/?username=KallebyX&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=00FFFF&style=flat-square" alt="Profile Views"/>
 
 </div>
 
