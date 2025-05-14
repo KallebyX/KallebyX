@@ -2,11 +2,21 @@
   <img src="https://i.imgur.com/7pD0BY5.png" alt="Banner Kalleby Evangelho" width="100%">
 </p>
 
+<!-- VERSÃO 1 - Typing Animado Moderno (nome e áreas de atuação) -->
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=✨+Kalleby+Evangelho+✨;Biomedical+Innovator+%7C+Fullstack+Developer+%7C+Founder+%40Biomove" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=Kalleby+Evangelho;Biomedical+Innovator;Fullstack+Developer;Founder+%40Biomove;Tecnologia+com+Prop%C3%B3sito;Inova%C3%A7%C3%A3o+com+Empatia" alt="Typing SVG" />
   </a>
 </h1>
+
+<!-- VERSÃO 2 - Typing apenas Nome (minimalista - para usar se quiser ainda mais clean) -->
+<!--
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=40&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=400&height=60&lines=Kalleby+Evangelho" alt="Typing SVG" />
+  </a>
+</h1>
+-->
 
 <p align="center">
   <i>🌟 Tecnologia com Propósito. Inovação com Empatia. 🌟</i>
@@ -114,11 +124,11 @@ _(Mais publicações em desenvolvimento.)_
 | Ano | Conquista |
 |:----|:----------|
 | **2022** | Curso Fullstack na Kenzie Academy (HTML5, CSS3, JS, React, Python, SQL e liderança técnica). |
-| **Julho de 2023** | Ingresso no curso de Ciência da Computação na UFN, aprofundando IA e segurança da informação. |
-| **Agosto de 2023** | Bolsa de Iniciação Tecnológica em projetos de saúde materno-infantil. |
-| **Maio de 2024** | Fundação da startup Biomove, tecnologias assistivas e próteses mioelétricas. |
-| **Julho de 2024** | Ingresso no curso de Engenharia Biomédica na UFN. |
-| **Abril de 2025** | Incubação no Hub Clareira (programa Decola.cp), impulsionando a Biomove. |
+| **Julho de 2023** | Ingresso em Ciência da Computação na UFN. |
+| **Agosto de 2023** | Bolsa de Iniciação Tecnológica em saúde materno-infantil. |
+| **Maio de 2024** | Fundação da Biomove, tecnologias assistivas e próteses mioelétricas. |
+| **Julho de 2024** | Ingresso em Engenharia Biomédica na UFN. |
+| **Abril de 2025** | Incubação da Biomove no Hub Clareira via programa Decola.cp. |
 
 ---
 
