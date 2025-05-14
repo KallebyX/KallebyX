@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>🌟 "Tecnologia com Propósito. Inovação com Empatia." 🌟</i>
+  <i>🌟 Tecnologia com Propósito. Inovação com Empatia. 🌟</i>
 </p>
 
 ---
@@ -25,11 +25,10 @@
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de Engenharia Biomédica na UFN.
-- 🦾 Fundador da **Biomove**, startup de tecnologias assistivas e próteses mioelétricas.
+- 🦾 Fundador da **Biomove**, startup de tecnologias assistivas.
 - 💻 Desenvolvedor Fullstack e Maker de Hardware.
 - 🤖 Entusiasta de IA aplicada à saúde, educação e acessibilidade.
 - 🌍 Defensor da educação como motor de transformação social.
-- 🧠 Explorador de história oculta, ancestralidade e tecnologia cidadã.
 
 ---
 
@@ -49,33 +48,33 @@
 
 ---
 
-## 🛠️ Projetos e Iniciativas
+## 🎯 Principais Iniciativas e Projetos
 
-🎯 **Biomove**  
-Startup de tecnologias assistivas, especializada em próteses mioelétricas de baixo custo com impressão 3D e Arduino.
+- **Biomove**:  
+Startup de tecnologias assistivas focada no desenvolvimento de próteses mioelétricas de baixo custo com impressão 3D e Arduino.
 
-🎯 **ToolNurse**  
-Plataforma web para suporte a consultas de enfermagem em puericultura, otimizando fluxos clínicos.
+- **ToolNurse**:  
+Plataforma web para apoiar consultas de enfermagem pediátrica em puericultura, otimizando o fluxo clínico.
 
-🎯 **Ludoway**  
-Cadeira de rodas gamificada voltada para reabilitação de crianças, integrando tecnologia e ludicidade.
+- **Ludoway**:  
+Cadeira de rodas interativa e gamificada para reabilitação de crianças, unindo tecnologia e ludicidade.
 
-🎯 **Projeto VitaPel**  
-Sistema terapêutico digital para fisioterapia pélvica remota, com foco em tratamento domiciliar de incontinência urinária.
+- **Projeto VitaPel**:  
+Sistema digital terapêutico para fortalecimento da musculatura pélvica e tratamento da incontinência urinária em ambiente domiciliar.
 
-🎯 **BioECG**  
-Sistema de interpretação de eletrocardiogramas baseado em Inteligência Artificial, democratizando o acesso a diagnósticos rápidos.
+- **BioECG**:  
+Sistema baseado em Inteligência Artificial para interpretação rápida e acessível de eletrocardiogramas.
 
 ---
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo da Jornada
 
 | Ano | Conquista |
 |:----|:----------|
 | **2022** | Início no desenvolvimento de tecnologias assistivas com Arduino e impressão 3D. |
-| **2023** | Ingresso na graduação em Engenharia Biomédica na UFN e fundação da Biomove. |
-| **2024** | Desenvolvimento da ToolNurse e da Ludoway; participação em eventos científicos e de inovação. |
-| **2025** | Lançamento de novos projetos como BioECG e VitaPel; publicações científicas em IA aplicada à saúde. |
+| **2023** | Ingresso no curso de Engenharia Biomédica (UFN) e fundação da Biomove. |
+| **2024** | Desenvolvimento da ToolNurse e da Ludoway; apresentações científicas em eventos. |
+| **2025** | Lançamento do BioECG e do Projeto VitaPel; publicação de artigos científicos. |
 
 ---
 
