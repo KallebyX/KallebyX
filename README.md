@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/7pD0BY5.png" alt="Banner Kalleby Evangelho" width="100%">
+</p>
+
 <h1 align="center">✨ Kalleby Evangelho ✨</h1>
 
 <p align="center">
@@ -64,6 +68,15 @@ Sistema digital terapêutico para fortalecimento da musculatura pélvica e trata
 
 - **BioECG**:  
 Sistema baseado em Inteligência Artificial para interpretação rápida e acessível de eletrocardiogramas.
+
+---
+
+## 📝 Publicações e Artigos
+
+- 📄 **Inteligência Artificial na Saúde: Avanços, Desafios e Aplicações Futuras (2025)**  
+- 📄 **ToolNurse: Plataforma Digital para Apoio à Consulta Pediátrica (2024)**
+
+_(Mais publicações em desenvolvimento.)_
 
 ---
 
