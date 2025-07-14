@@ -60,7 +60,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-
+<iframe src="https://github.com/sponsors/KallebyX/card" title="Sponsor KallebyX" height="225" width="600" style="border: 0;"></iframe>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
