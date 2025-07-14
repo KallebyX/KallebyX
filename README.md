@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalleby%20Evangelho-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kalleby-evangelho/)
 [![Instagram](https://img.shields.io/badge/Instagram-@kallebyevangelho-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kallebyevangelho/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9156--0701-brightgreen?style=flat-square&logo=orcid)](https://orcid.org/0009-0005-9156-0701)
-
+<iframe src="https://github.com/sponsors/KallebyX/card" title="Sponsor KallebyX" height="225" width="600" style="border: 0;"></iframe>
 </div>
 
 ---
@@ -60,7 +60,6 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-<iframe src="https://github.com/sponsors/KallebyX/card" title="Sponsor KallebyX" height="225" width="600" style="border: 0;"></iframe>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
