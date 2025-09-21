@@ -74,12 +74,14 @@
 
 | Ano | Conquista |
 |:----|:----------|
-| **2022** | Curso Fullstack na Kenzie Academy. |
+| **Janeiro de 2022** | Curso Fullstack na Kenzie Academy. |
 | **Julho de 2023** | Ingresso em Ciência da Computação na UFN. |
 | **Agosto de 2023** | Bolsa de Iniciação Tecnológica em saúde materno-infantil. |
 | **Maio de 2024** | Fundação da Biomove. |
 | **Julho de 2024** | Ingresso em Engenharia Biomédica na UFN. |
 | **Abril de 2025** | Incubação da Biomove no Hub Clareira. |
+| **Agosto de 2025** | Aceleração da Oryum tech no 8º ciclo do startup in lab no Fecomercio RS |
+| **Setembro de 2025** | Premiação de ideia mais inovadora/ideia destaque no Ideathon Trinacional cidades inteligentes, Inovaction |
 
 ---
 
